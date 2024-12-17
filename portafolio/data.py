@@ -50,6 +50,7 @@ class Data:
             media,
             about,
             technologies,
+            knowledge,
             experience,
             projects,
             training,
@@ -65,6 +66,7 @@ class Data:
         self.media = Media(**media)
         self.about = about
         self.technologies = [Technology(**tech) for tech in technologies]
+        self.knowledge = [Technology(**tech) for tech in knowledge]
         self.experience = [Info(**info) for info in experience]
         self.projects = [Info(**info) for info in projects]
         self.training = [Info(**info) for info in training]

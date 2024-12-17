@@ -6,7 +6,7 @@ from portafolio.views.extra import extra
 from portafolio.views.footer import footer
 from portafolio.views.header import header
 from portafolio.views.info import info
-from portafolio.views.tech_stack import tech_stack
+from portafolio.views.tech_stack import tech_stack, knowledge
 
 DATA = data.data
 
@@ -19,10 +19,11 @@ def index() -> rx.Component:
             about(DATA.about),
             rx.divider(),
             tech_stack(DATA.technologies),
-            info("Experiencia", DATA.experience),
-            info("Proyectos", DATA.projects),
-            info("Formación", DATA.training),
-            extra(DATA.extras),
+            knowledge(DATA.knowledge),
+            info("Experience", DATA.experience),
+            info("Projects", DATA.projects),
+            info("Education", DATA.training),
+            # extra(DATA.extras),
             rx.divider(),
             footer(DATA.media),
             spacing=Size.MEDIUM.value,
