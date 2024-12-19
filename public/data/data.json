@@ -67,7 +67,7 @@
                 }
             ],
             "image": "/blog_capture.png",
-            "url": "#",
+            "url": "",
             "github": "https://github.com/guidocastillo7/web-user-profile"
         },
         {
@@ -82,7 +82,7 @@
                 }
             ],
             "image": "/app_capture.png",
-            "url": "#",
+            "url": "",
             "github": "https://github.com/guidocastillo7/crypto-prices-app"
         },
         {
@@ -97,7 +97,7 @@
                 }
             ],
             "image": "",
-            "url": "#",
+            "url": "",
             "github": "https://github.com/guidocastillo7/scraper-amazon"
         }
     ],
