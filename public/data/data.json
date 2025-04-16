@@ -52,6 +52,29 @@
     ],
     "projects": [
         {
+            "icon": "list-todo",
+            "title": "To Do List",
+            "subtitle": "Web App",
+            "description": "A simple and effective to-do list web application, allowing users to add, view, edit, and delete their tasks.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-django-plain",
+                    "name": "Django"
+                },
+                {
+                    "icon": "devicon-supabase-plain",
+                    "name": "Supabase"
+                }
+            ],
+            "image": "/todolist_linkedin.png",
+            "url": "https://todolist-h3yb.onrender.com/",
+            "github": "https://github.com/guidocastillo7/to-do-list"
+        },
+        {
             "icon": "users",
             "title": "Web User Profile",
             "subtitle": "Web App",
