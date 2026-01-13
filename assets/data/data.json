@@ -4,7 +4,7 @@
     "image": "/foto_cv.JPEG",
     "avatar": "/foto_cv.JPEG",
     "name": "Guido Castillo",
-    "skill": "BackEnd Developer | Python",
+    "skill": "BackEnd Developer",
     "location": "Italy",
     "media": {
         "email": "guido.castillo.002@gmail.com",
@@ -12,32 +12,36 @@
         "github": "https://github.com/guidocastillo7",
         "likedin": "https://www.linkedin.com/in/guidocastillo7/"
     },
-    "about": "Back-End Developer with the ability to create automations, e-commerce platforms, and efficient websites using Python, Django, and relational SQL databases. Currently in the process of learning new languages and technologies.",
+    "about": "Back-End Developer with the ability to create automations, e-commerce platforms, and efficient websites using Python, JavaScript, and relational SQL databases. Currently in the process of learning new languages and technologies.",
     "technologies": [
         {
             "icon": "devicon-python-plain",
             "name": "Python"
         },
         {
-            "icon": "devicon-django-plain",
-            "name": "Django"
-        }
-    ],
-    "knowledge": [
-        {
-            "icon": "devicon-postgresql-plain-wordmark",
-            "name": "SQL"
-        },
-        {
-            "icon": "devicon-djangorest-plain-wordmark",
-            "name": "Django Rest Framework"
-        },
-        {
             "icon": "devicon-javascript-plain",
             "name": "JavaScript"
         },
         {
-            "icon": "favicon.ico",
+            "icon": "devicon-postgresql-plain-wordmark",
+            "name": "SQL"
+        }
+    ],
+    "knowledge": [
+        {
+            "icon": "devicon-django-plain",
+            "name": "Django"
+        },
+        {
+            "icon": "devicon-fastapi-plain",
+            "name": "FastAPI"
+        },
+        {
+            "icon": "devicon-nodejs-plain",
+            "name": "NodeJS"
+        },
+        {
+            "icon": "devicon-reflex-plain",
             "name": "Reflex"
         }
     ],
@@ -51,6 +55,25 @@
         }
     ],
     "projects": [
+        {
+            "icon": "external-link",
+            "title": "Artist Landing Page",
+            "subtitle": "Social Media Aggregator",
+            "description": "A responsive web application to centralize social media and streaming platforms.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-reflex-plain",
+                    "name": "Reflex"
+                }
+            ],
+            "image": "/rob_links.png",
+            "url": "https://rob-links-navy-ocean.reflex.run/",
+            "github": "https://github.com/guidocastillo7/"
+        },
         {
             "icon": "list-todo",
             "title": "To Do List",
