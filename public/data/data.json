@@ -56,6 +56,29 @@
     ],
     "projects": [
         {
+            "icon": "menu",
+            "title": "Digital Restaurant Menu",
+            "subtitle": "Restaurant Management System",
+            "description": "A dynamic platform where customers can browse the full menu in real-time, featuring organized categories and detailed dish information.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-reflex-plain",
+                    "name": "Reflex"
+                },
+                {
+                    "icon": "devicon-supabase-plain",
+                    "name": "Supabase"
+                }
+            ],
+            "image": "/menu-ristorante.png",
+            "url": "https://ristorante-milano-reflex.vercel.app/menu",
+            "github": "https://github.com/guidocastillo7/"
+        },
+        {
             "icon": "external-link",
             "title": "Artist Landing Page",
             "subtitle": "Social Media Aggregator",
