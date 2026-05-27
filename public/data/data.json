@@ -56,6 +56,29 @@
     ],
     "projects": [
         {
+            "icon": "wallet",
+            "title": "Finances API",
+            "subtitle": "Personal finances management API",
+            "description": "Backend for personal finance management, featuring user authentication, income and expense tracking, monthly summaries, budgeting and recurring expenses.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-fastapi-plain",
+                    "name": "FastAPI"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
+                }
+            ],
+            "image": "/finances-api.png",
+            "url": "https://finances-api.up.railway.app/",
+            "github": "https://github.com/guidocastillo7/finances-api"
+        },
+        {
             "icon": "menu",
             "title": "Digital Restaurant Menu",
             "subtitle": "Restaurant Management System",
