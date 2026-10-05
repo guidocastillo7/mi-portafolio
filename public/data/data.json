@@ -56,6 +56,25 @@
     ],
     "projects": [
         {
+            "icon": "bitcoin",
+            "title": "Crypto Prices Web",
+            "subtitle": "Website to track crypto prices",
+            "description": "Website for checking public spot prices via Binance API",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-reflex-plain",
+                    "name": "Reflex"
+                }
+            ],
+            "image": "/crypto-prices-web.png",
+            "url": "https://crypto-prices-web.up.railway.app/",
+            "github": "https://github.com/guidocastillo7/crypto-prices-web"
+        },
+        {
             "icon": "wallet",
             "title": "Finances API",
             "subtitle": "Personal finances management API",
@@ -201,6 +220,22 @@
             "description": "",
             "date": "2012",
             "certificate": "#"
+        },
+        {
+            "icon": "file-badge",
+            "title": "AWS Fundamentals: Cloud, Serverless, and Operations",
+            "subtitle": "Certificate",
+            "description": "",
+            "date": "2026",
+            "certificate": "https://www.commitacademy.io/app/verify-certificate/cert_8eC8rtSs3c"
+        },
+        {
+            "icon": "file-badge",
+            "title": "Introduction to AI Development",
+            "subtitle": "Certificate",
+            "description": "",
+            "date": "2026",
+            "certificate": "/certificado-ai-development.pdf"
         },
         {
             "icon": "file-badge",
