@@ -223,6 +223,22 @@
         },
         {
             "icon": "file-badge",
+            "title": "AWS Fundamentals: Cloud, Serverless, and Operations",
+            "subtitle": "Certificate",
+            "description": "",
+            "date": "2026",
+            "certificate": "https://www.commitacademy.io/app/verify-certificate/cert_8eC8rtSs3c"
+        },
+        {
+            "icon": "file-badge",
+            "title": "Introduction to AI Development",
+            "subtitle": "Certificate",
+            "description": "",
+            "date": "2026",
+            "certificate": "/certificado-ai-development.pdf"
+        },
+        {
+            "icon": "file-badge",
             "title": "Django Web Development",
             "subtitle": "Certificate",
             "description": "",
