@@ -20,7 +20,7 @@ def index() -> rx.Component:
             rx.divider(),
             tech_stack(DATA.technologies),
             knowledge(DATA.knowledge),
-            info("Experience", DATA.experience),
+            # info("Experience", DATA.experience),
             info("Projects", DATA.projects),
             info("Education", DATA.training),
             # extra(DATA.extras),
