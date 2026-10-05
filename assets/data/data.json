@@ -56,6 +56,25 @@
     ],
     "projects": [
         {
+            "icon": "bitcoin",
+            "title": "Crypto Prices Web",
+            "subtitle": "Website to track crypto prices",
+            "description": "Website for checking public spot prices via Binance API",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-reflex-plain",
+                    "name": "Reflex"
+                }
+            ],
+            "image": "/crypto-prices-web.png",
+            "url": "https://crypto-prices-web.up.railway.app/",
+            "github": "https://github.com/guidocastillo7/crypto-prices-web"
+        },
+        {
             "icon": "wallet",
             "title": "Finances API",
             "subtitle": "Personal finances management API",
